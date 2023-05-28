@@ -78,7 +78,7 @@ p {
   text-align:center;
   color:red;
   text-shadow: 1px 1px rgb(126, 6, 6);
-  width: calc(20% - 250px);
+  width: calc(20% - 125px);
   padding-bottom: 25px;
   box-shadow: rgb(217, 10, 10) 0px 20px 30px -10px; 
  
