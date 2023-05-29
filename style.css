@@ -27,6 +27,12 @@ h1 {
   text-align: center;
 }
 
+h1:hover {
+  transform: scale(1.5);
+  transition: 150ms ease-in-out;
+  box-shadow: rgb(217, 10, 10) 0px 20px 30px -10px;
+}
+
 h2 {
   color: #f30d0d;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
