@@ -6,7 +6,7 @@ body {
 }
 
 img {
-  width: 20%;
+  max-width: 20%;
   height: 20%;
   display: block;
   margin-left: auto;
@@ -15,7 +15,7 @@ img {
 }
 h1 {
   display: block;
-  font-size: 35px;
+  font-size: 33px;
   color: #eb0a0a;
   text-shadow: 2px 2px 2px red;
   font-weight: bold;
